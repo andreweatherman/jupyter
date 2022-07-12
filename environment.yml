@@ -3,7 +3,7 @@ dependencies:
   - python == 3.8.10
   - pip == 21/0
   - pip:
-    - viola 
+    - voila
     - matplotlib
     - numpy
     - ipywidgets
