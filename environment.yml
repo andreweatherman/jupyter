@@ -1,9 +1,10 @@
 name: date_paradox
-channels:
-  - conda-forge
 dependencies:
-  - voila
-  - matplotlib
-  - numpy
-  - ipywidgets
-  - IPython
+  - python == 3.8.10
+  - pip == 21/0
+  - pip:
+    - viola 
+    - matplotlib
+    - numpy
+    - ipywidgets
+    - IPython
