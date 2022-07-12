@@ -1,7 +1,7 @@
 name: date_paradox
 dependencies:
   - python == 3.8.10
-  - pip == 21/0
+  - pip == 21.0
   - pip:
     - voila
     - matplotlib
