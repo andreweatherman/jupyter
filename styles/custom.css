@@ -1,0 +1,38 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+p {
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+}
+
+label.widget-label {
+    font-family: "Inter", sans-serif;
+}
+
+.widget-readout {
+    font-family: "Inter", sans-serif;
+}
+
+pre {
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 16px !important;
+}
+
+h1, h2 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+path.cls-1 {
+    display: none;
+}
+
+</style>
