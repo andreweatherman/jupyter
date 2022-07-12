@@ -1,5 +1,4 @@
 voila
-calendar
 random
 collections
 matplotlib
